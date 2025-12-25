@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Architect",
+  "description": "Create professional resumes by uploading a sample template. AI analyzes the sample's style and structure, helping you adapt your experience into a matching real-time preview.",
+  "requestFramePermissions": []
+}
